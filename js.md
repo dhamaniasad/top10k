@@ -1,100 +1,100 @@
-1. [mean](https://github.com/linnovate/mean) [7635, 2309]: *MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way*
-2. [mocha](https://github.com/mochajs/mocha) [7631, 1157]: *mocha - simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces)*
-3. [vue](https://github.com/vuejs/vue) [7620, 713]: *Simple yet powerful library for building modern web interfaces.*
-4. [headroom.js](https://github.com/WickyNilliams/headroom.js) [7553, 565]: *Give your pages some headroom. Hide your header until you need it*
-5. [riot](https://github.com/riot/riot) [7509, 643]: *A React-like, user interface library*
-6. [jquery-cookie](https://github.com/carhartl/jquery-cookie) [7490, 3237]: *No longer maintained, superseded by JS Cookie:*
-7. [npm](https://github.com/npm/npm) [7400, 1509]: *a package manager for javascript*
-8. [koa](https://github.com/koajs/koa) [7379, 570]: *Expressive middleware for node.js using generators*
-9. [react-router](https://github.com/rackt/react-router) [7332, 1273]: *A complete routing solution for React.js*
-10. [lets-chat](https://github.com/sdelements/lets-chat) [7306, 961]: *Self-hosted chat app for small teams*
-11. [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) [7141, 665]: *The JavaScript library for modern SVG graphics.*
-12. [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) [7108, 2925]: *A datepicker for @twitter bootstrap forked from Stefan Petre's (of eyecon.ro), improvements by @eternicode*
-13. [javascript-patterns](https://github.com/shichuan/javascript-patterns) [7087, 1338]: *JavaScript Patterns*
-14. [chartist-js](https://github.com/gionkunz/chartist-js) [7040, 787]: *Simple responsive charts*
-15. [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) [7005, 1558]: *Light and responsive lightbox script with focus on performance.*
-16. [famous](https://github.com/Famous/famous) [6974, 841]: *This repo is being deprecated. Please check out http://github.com/famous/engine*
-17. [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) [6906, 1015]: *jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.*
-18. [stream-handbook](https://github.com/substack/stream-handbook) [6894, 444]: *how to write node programs with streams*
-19. [grafana](https://github.com/grafana/grafana) [6893, 988]: *Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB*
-20. [react-canvas](https://github.com/Flipboard/react-canvas) [6877, 478]: *High performance <canvas> rendering for React components*
-21. [selectize.js](https://github.com/brianreavis/selectize.js) [6873, 1342]: *Selectize is the hybrid of a textbox and \<select\> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.*
-22. [blessed-contrib](https://github.com/yaronn/blessed-contrib) [6868, 230]: *Build terminal dashboards using ascii/ansi art and javascript*
-23. [pageres](https://github.com/sindresorhus/pageres) [6849, 330]: *Capture website screenshots*
-24. [knockout](https://github.com/knockout/knockout) [6841, 1170]: *Knockout makes it easier to create rich, responsive UIs with JavaScript*
-25. [hexo](https://github.com/hexojs/hexo) [6818, 1103]: *A fast, simple & powerful blog framework, powered by Node.js.*
-26. [forever](https://github.com/foreverjs/forever) [6806, 490]: *A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)*
-27. [mermaid](https://github.com/knsv/mermaid) [6791, 250]: *Generation of diagram and flowchart from text in a similar manner as markdown*
-28. [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) [6683, 412]: *Mostly adequate guide to FP (in javascript)*
-29. [scrollReveal.js](https://github.com/jlmakes/scrollReveal.js) [6675, 989]: *Easily reveal elements as they enter the viewport.*
-30. [stackedit](https://github.com/benweet/stackedit) [6675, 1089]: *In-browser markdown editor*
-31. [restangular](https://github.com/mgonto/restangular) [6669, 723]: *AngularJS service to handle Rest API Restful Resources properly and easily*
-32. [postcss](https://github.com/postcss/postcss) [6654, 296]: *Transforming styles with JS plugins*
-33. [jquery.transit](https://github.com/rstacruz/jquery.transit) [6614, 870]: *Super-smooth CSS3 transformations and transitions for jQuery*
-34. [backbone.marionette](https://github.com/marionettejs/backbone.marionette) [6538, 1297]: *The Backbone Framework*
-35. [linux-dash](https://github.com/afaqurk/linux-dash) [6504, 713]: *A drop-in, low-overhead monitoring web dashboard for a linux machine.*
-36. [cheerio](https://github.com/cheeriojs/cheerio) [6499, 552]: *Fast, flexible, and lean implementation of core jQuery designed specifically for the server.*
-37. [wysihtml5](https://github.com/xing/wysihtml5) [6465, 1063]: *Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.*
-38. [Parsley.js](https://github.com/guillaumepotier/Parsley.js) [6444, 1058]: *Validate your forms, frontend, without writing a single line of javascript*
-39. [brain](https://github.com/harthur/brain) [6388, 655]: *[UNMAINTAINED] Neural networks in JavaScript*
-40. [mousetrap](https://github.com/ccampbell/mousetrap) [6374, 556]: *Simple library for handling keyboard shortcuts in Javascript*
-41. [isotope](https://github.com/metafizzy/isotope) [6354, 1149]: *Filter & sort magical layouts*
-42. [iscroll](https://github.com/cubiq/iscroll) [6350, 1899]: *Smooth scrolling for the web*
-43. [passport](https://github.com/jaredhanson/passport) [6339, 418]: *Simple, unobtrusive authentication for Node.js.*
-44. [flight](https://github.com/flightjs/flight) [6321, 573]: *A component-based, event-driven JavaScript framework from Twitter*
-45. [waypoints](https://github.com/imakewebthings/waypoints) [6291, 894]: *Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.*
-46. [html5shiv](https://github.com/aFarkas/html5shiv) [6276, 1567]: *This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.*
-47. [UglifyJS](https://github.com/mishoo/UglifyJS) [6268, 575]: *JavaScript parser / mangler / compressor / beautifier library for NodeJS*
-48. [stylus](https://github.com/stylus/stylus) [6228, 853]: *Expressive, robust, feature-rich CSS language built for nodejs*
-49. [spacegray](https://github.com/kkga/spacegray) [6220, 404]: *A Hyperminimal UI Theme for Sublime Text*
-50. [gollum](https://github.com/gollum/gollum) [6172, 1084]: *A simple, Git-powered wiki with a sweet API and local frontend.*
-51. [ungit](https://github.com/FredrikNoren/ungit) [6143, 350]: *The easiest way to use git. On any platform. Anywhere.*
-52. [mailcheck](https://github.com/mailcheck/mailcheck) [6142, 363]: *Reduce user-misspelled email addresses in your forms.*
-53. [is.js](https://github.com/arasatasaygin/is.js) [6124, 409]: *Micro check library*
-54. [highlight.js](https://github.com/isagalaev/highlight.js) [6092, 1048]: *Javascript syntax highlighter*
-55. [Swiper](https://github.com/nolimits4web/Swiper) [6044, 2327]: *Most modern mobile touch slider with hardware accelerated transitions*
-56. [RxJS](https://github.com/Reactive-Extensions/RxJS) [6098, 603]: *The Reactive Extensions for JavaScript*
-57. [amazeui](https://github.com/allmobilize/amazeui) [6038, 1595]: *Amaze UI, a mobile-first and modular front-end framework.*
-58. [nodemon](https://github.com/remy/nodemon) [5998, 451]: *Monitor for any changes in your node.js application and automatically restart the server - perfect for development*
-59. [gremlins.js](https://github.com/marmelab/gremlins.js) [5954, 255]: *Monkey testing library for web apps and Node.js*
-60. [card](https://github.com/jessepollak/card) [5933, 530]: *:credit_card: make your credit card form better in one line of code*
-61. [traceur-compiler](https://github.com/google/traceur-compiler) [5880, 364]: *Traceur is a JavaScript.next-to-JavaScript-of-today compiler*
-62. [ScrollMagic](https://github.com/janpaepke/ScrollMagic) [5879, 973]: *The javascript library for magical scroll interactions.*
-63. [satellizer](https://github.com/sahat/satellizer) [5824, 659]: *Token-based AngularJS Authentication*
-64. [karma](https://github.com/karma-runner/karma) [5814, 956]: *Spectacular Test Runner for JavaScript*
-65. [connect](https://github.com/senchalabs/connect) [5804, 840]: *Connect is a middleware layer for Node.js*
-66. [breach_core](https://github.com/breach/breach_core) [5791, 551]: *A Browser written in JS. Free. Modular. Hackable.*
-67. [medium-editor](https://github.com/yabwe/medium-editor) [5750, 712]: *Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.*
-68. [slate](https://github.com/tripit/slate) [5723, 2723]: *Beautiful static documentation for your API*
-69. [pickadate.js](https://github.com/amsul/pickadate.js) [5713, 677]: *The mobile-friendly, responsive, and lightweight jQuery date & time input picker.*
-70. [500lines](https://github.com/aosabook/500lines) [5664, 1113]: *500 Lines or Less*
-71. [paper.js](https://github.com/paperjs/paper.js) [5636, 565]: *The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey*
-72. [jquery-validation](https://github.com/jzaefferer/jquery-validation) [5632, 1822]: *jQuery Validation Plugin*
-73. [timesheet.js](https://github.com/sbstjn/timesheet.js) [5632, 408]: *JavaScript library for HTML5 & CSS3 time sheets*
-74. [jshint](https://github.com/jshint/jshint) [5629, 1180]: *JSHint is a tool that helps to detect errors and potential problems in your JavaScript code*
-75. [gmaps](https://github.com/hpneo/gmaps) [5623, 967]: *the easiest way to use Google Maps*
-76. [Snap.js](https://github.com/jakiestfu/Snap.js) [5608, 688]: *A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)*
-77. [quill](https://github.com/quilljs/quill) [5604, 329]: *A cross browser rich text editor with an API*
-78. [purifycss](https://github.com/purifycss/purifycss) [5588, 198]: *Remove unused CSS. Also works with single-page apps.*
-79. [fine-uploader](https://github.com/FineUploader/fine-uploader) [5585, 1365]: *Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 & Azure uploading, client-side image scaling, preview generation, form support, chunking, auto-resume, and tons of other features.*
-80. [list.js](https://github.com/javve/list.js) [5577, 519]: *The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.*
-81. [node-mysql](https://github.com/felixge/node-mysql) [5565, 903]: *A pure node.js JavaScript Client implementing the MySql protocol.*
-82. [JSON-js](https://github.com/douglascrockford/JSON-js) [5554, 3315]: *JSON in JavaScript*
-83. [FitText.js](https://github.com/davatron5000/FitText.js) [5546, 1219]: *A jQuery plugin for inflating web type*
-84. [webtorrent](https://github.com/feross/webtorrent) [5542, 393]: *:zap: Streaming torrent client for node & the browser*
-85. [angular-strap](https://github.com/mgcrea/angular-strap) [5526, 1316]: *AngularJS 1.2+ native directives for Bootstrap 3.*
-86. [BrowserQuest](https://github.com/mozilla/BrowserQuest) [5518, 1717]: *A HTML5/JavaScript multiplayer game experiment*
-87. [handsontable](https://github.com/handsontable/handsontable) [5477, 1251]: *Handsontable is an Excel-like data grid / spreadsheet for HTML & JavaScript*
-88. [browser-sync](https://github.com/BrowserSync/browser-sync) [5470, 300]: *Keep multiple browsers & devices in sync when building websites. http://browsersync.io*
-89. [rickshaw](https://github.com/shutterstock/rickshaw) [5467, 882]: * JavaScript toolkit for creating interactive real-time graphs*
-90. [chromeos-apk](https://github.com/vladikoff/chromeos-apk) [5465, 548]: *Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.*
-91. [gridster.js](https://github.com/ducksboard/gridster.js) [5453, 982]: *gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns *
-92. [smartcrop.js](https://github.com/jwagner/smartcrop.js) [5377, 220]: *Content aware image cropping*
-93. [superagent](https://github.com/visionmedia/superagent) [5360, 601]: *Ajax with less suck - (and node.js HTTP client to match)*
-94. [trianglify](https://github.com/qrohlf/trianglify) [5329, 400]: *Algorithmically generated triangle art*
-95. [SlickGrid](https://github.com/mleibman/SlickGrid) [5329, 1730]: *A lightning fast JavaScript grid/spreadsheet*
-96. [angular-app](https://github.com/angular-app/angular-app) [5311, 1644]: *Reference application for AngularJS*
-97. [html2canvas](https://github.com/niklasvh/html2canvas) [5288, 1095]: *Screenshots with JavaScript*
-98. [metrics-graphics](https://github.com/mozilla/metrics-graphics) [5282, 268]: *A library optimized for concise, principled data graphics and layouts.*
-99. [pomelo](https://github.com/NetEase/pomelo) [5243, 1569]: *A fast,scalable,distributed game server framework for Node.js.*
-100. [node_redis](https://github.com/NodeRedis/node_redis) [5193, 743]: *redis client for node*
+1. [angular.js](https://github.com/angular/angular.js) [43404, 19632]: *HTML enhanced for web apps*
+2. [d3](https://github.com/mbostock/d3) [42603, 11243]: *A JavaScript visualization library for HTML and SVG.*
+3. [jquery](https://github.com/jquery/jquery) [36334, 9282]: *jQuery JavaScript Library*
+4. [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) [31474, 8115]: *A professional front-end template for building fast, robust, and adaptable web apps or sites.*
+5. [react](https://github.com/facebook/react) [29866, 4592]: *A declarative, efficient, and flexible JavaScript library for building user interfaces.*
+6. [meteor](https://github.com/meteor/meteor) [29112, 3391]: *Meteor, the JavaScript App Platform*
+7. [impress.js](https://github.com/impress/impress.js) [25582, 5745]: *It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.*
+8. [javascript](https://github.com/airbnb/javascript) [25489, 4696]: *JavaScript Style Guide*
+9. [reveal.js](https://github.com/hakimel/reveal.js) [24108, 7347]: *The HTML Presentation Framework*
+10. [brackets](https://github.com/adobe/brackets) [23678, 4970]: *An open source code editor for the web, written in JavaScript, HTML and CSS.*
+11. [backbone](https://github.com/jashkenas/backbone) [23211, 5174]: *Give your JS App some Backbone with Models, Views, Collections, and Events*
+12. [moment](https://github.com/moment/moment) [22983, 2759]: *Parse, validate, manipulate, and display dates in javascript.*
+13. [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) [21633, 5730]: *File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.*
+14. [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) [21619, 2346]: *A book series on JavaScript. @YDKJS on twitter.*
+15. [three.js](https://github.com/mrdoob/three.js) [21591, 6694]: *JavaScript 3D library.*
+16. [express](https://github.com/strongloop/express) [21155, 4127]: *Fast, unopinionated, minimalist web framework for node.*
+17. [react-native](https://github.com/facebook/react-native) [21106, 3135]: *A framework for building native apps with React.*
+18. [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) [20767, 2359]: *Semantic is a UI component framework based around useful principles from natural language.*
+19. [socket.io](https://github.com/socketio/socket.io) [20380, 3877]: *Realtime application framework (Node.JS server)*
+20. [ionic](https://github.com/driftyco/ionic) [19904, 3431]: *Advanced HTML5 mobile development framework and SDK. Build incredible mobile apps with web technologies you already know and love. Best friends with AngularJS.*
+21. [resume.github.com](https://github.com/resume/resume.github.com) [19299, 520]: *Resumes generated using the GitHub informations*
+22. [Ghost](https://github.com/TryGhost/Ghost) [17111, 4131]: *Just a blogging platform*
+23. [gulp](https://github.com/gulpjs/gulp) [16909, 1808]: *The streaming build system*
+24. [Chart.js](https://github.com/nnnick/Chart.js) [16633, 5188]: *Simple HTML5 Charts using the \<canvas\> tag*
+25. [Modernizr](https://github.com/Modernizr/Modernizr) [16413, 2241]: *Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.*
+26. [node](https://github.com/nodejs/node) [16310, 1588]: *Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:*
+27. [underscore](https://github.com/jashkenas/underscore) [16126, 3615]: *JavaScript's utility _ belt*
+28. [select2](https://github.com/select2/select2) [15247, 3079]: *Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.*
+29. [ember.js](https://github.com/emberjs/ember.js) [14917, 3197]: *Ember.js - A JavaScript framework for creating ambitious web applications*
+30. [async](https://github.com/caolan/async) [14914, 1487]: *Async utilities for node and the browser*
+31. [todomvc](https://github.com/tastejs/todomvc) [14380, 8047]: *Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS, and many more*
+32. [bower](https://github.com/bower/bower) [13046, 1621]: *A package manager for the web*
+33. [less.js](https://github.com/less/less.js) [12884, 2960]: *Leaner CSS*
+34. [pdf.js](https://github.com/mozilla/pdf.js) [12713, 2959]: *PDF Reader in JavaScript*
+35. [hammer.js](https://github.com/hammerjs/hammer.js) [12288, 1868]: *A javascript library for multi-touch gestures :// You can touch this*
+36. [sails](https://github.com/balderdashy/sails) [12254, 1306]: *Realtime MVC Framework for Node.js*
+37. [slick](https://github.com/kenwheeler/slick) [12254, 1680]: *the last carousel you'll ever need*
+38. [jquery-pjax](https://github.com/defunkt/jquery-pjax) [12190, 1463]: *pushState + ajax = pjax*
+39. [Leaflet](https://github.com/Leaflet/Leaflet) [11861, 2144]: *JavaScript library for mobile-friendly interactive maps*
+40. [sweetalert](https://github.com/t4t5/sweetalert) [11674, 1359]: *A beautiful replacement for JavaScript's "alert"*
+41. [ace](https://github.com/ajaxorg/ace) [11500, 2706]: *Ace (Ajax.org Cloud9 Editor)*
+42. [lodash](https://github.com/lodash/lodash) [11463, 1054]: *A JavaScript utility library delivering consistency, modularity, performance, & extras.*
+43. [fullPage.js](https://github.com/alvarotrigo/fullPage.js) [11241, 2861]: *fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple*
+44. [typeahead.js](https://github.com/twitter/typeahead.js) [11170, 2040]: *typeahead.js is a fast and fully-featured autocomplete library*
+45. [material-ui](https://github.com/callemall/material-ui) [11115, 1733]: *React Components that Implement Google's Material Design.*
+46. [fastclick](https://github.com/ftlabs/fastclick) [10843, 1590]: *Polyfill to remove click delays on browsers with touch UIs*
+47. [material](https://github.com/angular/material) [10792, 1926]: *Material design for Angular*
+48. [Flat-UI](https://github.com/designmodo/Flat-UI) [10589, 2048]: *Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.*
+49. [video.js](https://github.com/videojs/video.js) [10544, 3019]: *Video.js - open source HTML5 & Flash video player*
+50. [intro.js](https://github.com/usablica/intro.js) [10542, 1411]: *A better way for new feature introduction and step-by-step users guide for your website and project.*
+51. [bootstrap](https://github.com/angular-ui/bootstrap) [10497, 5465]: *Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!*
+52. [phaser](https://github.com/photonstorm/phaser) [10424, 3530]: *Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.*
+53. [babel](https://github.com/babel/babel) [10300, 547]: *Babel is a compiler for writing next generation JavaScript.*
+54. [grunt](https://github.com/gruntjs/grunt) [10052, 1209]: *Grunt: The JavaScript Task Runner*
+55. [gitbook](https://github.com/GitbookIO/gitbook) [10025, 1016]: *Modern book format and toolchain using Git and Markdown*
+56. [q](https://github.com/kriskowal/q) [10003, 813]: *A tool for creating and composing asynchronous promises in JavaScript*
+57. [pm2](https://github.com/Unitech/pm2) [9995, 871]: *Production process manager for Node.js applications with a built-in load balancer*
+58. [nprogress](https://github.com/rstacruz/nprogress) [9840, 884]: *For slim progress bars like on YouTube, Medium, etc*
+59. [dragula](https://github.com/bevacqua/dragula) [9805, 519]: *:ok_hand: Drag and drop so simple it hurts*
+60. [awesome-react](https://github.com/enaqx/awesome-react) [9783, 803]: *A collection of awesome things regarding React ecosystem.*
+61. [jquery-mobile](https://github.com/jquery/jquery-mobile) [9710, 2583]: *jQuery Mobile Framework*
+62. [jasmine](https://github.com/jasmine/jasmine) [9703, 1553]: *DOM-less simple JavaScript testing framework*
+63. [json-server](https://github.com/typicode/json-server) [9605, 536]: *Get a full fake REST API with zero coding in less than 30 seconds (seriously)*
+64. [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) [9501, 1258]: *JavaScript image gallery for mobile and desktop, modular, framework independent*
+65. [Respond](https://github.com/scottjehl/Respond) [9455, 3347]: *A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)*
+66. [backbone-fundamentals](https://github.com/addyosmani/backbone-fundamentals) [9410, 1526]: *:book: A creative-commons book on Backbone.js for beginners and advanced users alike*
+67. [jade](https://github.com/jadejs/jade) [9340, 1420]: *Jade - robust, elegant, feature rich template engine for Node.js*
+68. [dashing](https://github.com/Shopify/dashing) [9249, 934]: *The exceptionally handsome dashboard framework in Ruby and Coffeescript.*
+69. [immutable-js](https://github.com/facebook/immutable-js) [9196, 437]: *Immutable persistent data collections for Javascript which increase efficiency and simplicity.*
+70. [handlebars.js](https://github.com/wycats/handlebars.js) [9157, 1280]: **
+71. [jquery-ui](https://github.com/jquery/jquery-ui) [9134, 3718]: *The official jQuery user interface library.*
+72. [markdown-here](https://github.com/adam-p/markdown-here) [9055, 1380]: *Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.*
+73. [masonry](https://github.com/desandro/masonry) [8917, 1692]: *Cascading grid layout library*
+74. [velocity](https://github.com/julianshapiro/velocity) [8911, 777]: *Accelerated JavaScript animation.*
+75. [clipboard.js](https://github.com/zenorocha/clipboard.js) [8888, 327]: *:scissors: Modern copy to clipboard. No Flash. Just 2kb :clipboard:*
+76. [parallax](https://github.com/wagerfield/parallax) [8860, 1352]: *Parallax Engine that reacts to the orientation of a smart device*
+77. [dropzone](https://github.com/enyo/dropzone) [8846, 2238]: *Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.*
+78. [pixi.js](https://github.com/pixijs/pixi.js) [8812, 1791]: *Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback*
+79. [webpack](https://github.com/webpack/webpack) [8760, 577]: *A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.*
+80. [flux](https://github.com/facebook/flux) [8712, 2067]: *Application Architecture for Building User Interfaces*
+81. [ui-router](https://github.com/angular-ui/ui-router) [8694, 2111]: *The de-facto solution to flexible routing with nested views in AngularJS*
+82. [request](https://github.com/request/request) [8652, 1125]: *Simplified HTTP request client.*
+83. [statsd](https://github.com/etsy/statsd) [8510, 1195]: *Simple daemon for easy stats aggregation*
+84. [bluebird](https://github.com/petkaantonov/bluebird) [8463, 958]: *Bluebird is a full featured promise library with unmatched performance.*
+85. [node-browserify](https://github.com/substack/node-browserify) [8431, 743]: *browser-side require() the node.js way*
+86. [history.js](https://github.com/browserstate/history.js) [8419, 1200]: *History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.*
+87. [mustache.js](https://github.com/janl/mustache.js) [8398, 1709]: *Minimal templating with {{mustaches}} in JavaScript*
+88. [echarts](https://github.com/ecomfe/echarts) [8353, 3058]: *Enterprise Charts | Github pages : http://ecomfe.github.io/echarts/index-en.html | Email : echarts@baidu.com | Baidu Hi : 1379172 | *
+89. [requirejs](https://github.com/jrburke/requirejs) [8292, 1498]: *A file and module loader for JavaScript*
+90. [onepage-scroll](https://github.com/peachananr/onepage-scroll) [8134, 1937]: *Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin*
+91. [dashboards](https://github.com/keen/dashboards) [8022, 800]: *Responsive dashboard templates for Bootstrap*
+92. [node-inspector](https://github.com/node-inspector/node-inspector) [7976, 517]: *Node.js debugger based on Blink Developer Tools*
+93. [TimelineJS](https://github.com/NUKnightLab/TimelineJS) [7890, 1596]: *TimelineJS: A Storytelling Timeline built in JavaScript. *
+94. [mongoose](https://github.com/Automattic/mongoose) [7808, 1212]: *MongoDB object modeling designed to work in an asynchronous environment.*
+95. [redux](https://github.com/rackt/redux) [7784, 678]: *Predictable state container for JavaScript apps*
+96. [uBlock](https://github.com/chrisaljoudi/uBlock) [7764, 360]: *uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.*
+97. [spin.js](https://github.com/fgnass/spin.js) [7716, 889]: *A spinning activity indicator*
+98. [CodeMirror](https://github.com/codemirror/CodeMirror) [7673, 1982]: *In-browser code editor*
+99. [picturefill](https://github.com/scottjehl/picturefill) [7652, 927]: *A responsive image polyfill for \<picture\>, srcset, sizes, and more*
+100. [raphael](https://github.com/DmitryBaranovskiy/raphael) [7647, 1170]: *JavaScript Vector Library*
