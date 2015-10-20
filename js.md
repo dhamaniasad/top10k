@@ -18,7 +18,7 @@
 18. [stream-handbook](https://github.com/substack/stream-handbook) [6894, 444]: *how to write node programs with streams*
 19. [grafana](https://github.com/grafana/grafana) [6893, 988]: *Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB*
 20. [react-canvas](https://github.com/Flipboard/react-canvas) [6877, 478]: *High performance <canvas> rendering for React components*
-21. [selectize.js](https://github.com/brianreavis/selectize.js) [6873, 1342]: *Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.*
+21. [selectize.js](https://github.com/brianreavis/selectize.js) [6873, 1342]: *Selectize is the hybrid of a textbox and \<select\> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.*
 22. [blessed-contrib](https://github.com/yaronn/blessed-contrib) [6868, 230]: *Build terminal dashboards using ascii/ansi art and javascript*
 23. [pageres](https://github.com/sindresorhus/pageres) [6849, 330]: *Capture website screenshots*
 24. [knockout](https://github.com/knockout/knockout) [6841, 1170]: *Knockout makes it easier to create rich, responsive UIs with JavaScript*
